@@ -35,3 +35,8 @@
  3. Abre una solicitud para integrarlo a la repo original.
 
 Puedes usar [Stackedit](https://stackedit.io/app#) para visualizar el contenido mientras lo editas.
+
+Tutoriales utiles:
+
+ 1. [Como contribuir](https://www.youtube.com/watch?v=waEb2c9NDL8)
+ 2. [Como escribir "markdown"](https://www.youtube.com/watch?v=fxJk-AN7_-4)
