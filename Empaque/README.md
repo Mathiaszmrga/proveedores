@@ -1,40 +1,17 @@
-<h1 align="center" style="margin-top: 0px;">Directorio de proveedores</h1>
-<p align="center" >Directorio de proveedores de servicios y productos.</p>
-<p align="center" >Abierto para contribucion!!</p>
-<p align="center" >Para remover, agregar o modificar sigue las instrucciones.</p>
+<h1 align="center" style="margin-top: 0px;">Proveedores de empaque</h1>
+<p align="center" >Proveedores de articulos y para empaque.</p>
+<p align="center" >(Cajas a la medida, papel, carton, etc.)</p>
 
 <div align="center" >
   
-  ![GitHub Repo stars](https://img.shields.io/github/stars/Mathiaszmrga/proveedores?style=plastic)
-  ![GitHub forks](https://img.shields.io/github/forks/Mathiaszmrga/proveedores?style=plastic)
-  ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Mathiaszmrga/proveedores?style=plastic)
-  ![GitHub last commit](https://img.shields.io/github/last-commit/Mathiaszmrga/proveedores?style=plastic)
+## Servicios
+  
+| Nombre | Producto | Link | Contacto | Notas |
+| --------------- | --------------- | --------------- | --------------- | --------------- |
+| Diseños de Carton D.F. | Empaque a la medida, cajas de linea, etc. | N/A | Telefono: 55 5611 1190 - Av. San Antonio 223 L2 Col, San Pedro de los Pinos, Benito Juárez, 03800 CDMX | Buen servicio para ordenes de bajo volumen. |
   
 </div>
 
-## Tabla de contenidos
+<h1 align="center" style="margin-top: 0px;"></h1>
 
-- [Electronica](#Electronica)
-- [Metal](#Metal)
-- [Madera](#Madera)
-- [Ceramica](#Ceramica)
-- [Impresion 3D](#Impresion_3D)
-- [Maquinado CNC](#Maquinado_CNC)
-- [Empaque](#Empaque)
-- [Estampas](#Estampas)
 
-## Electronica:
-
-## Metal:
-
-## Madera:
-
-## Ceramica:
-
-## Impresion 3D:
-
-## Maquinado CNC:
-
-## Empaque:
-
-## Estampas:
