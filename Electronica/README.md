@@ -16,8 +16,8 @@
   
 | Nombre | Producto | Link | Contacto | Notas |
 | --------------- | --------------- | --------------- | --------------- | --------------- |
-| Impresion de PCB | Manufactura y ensambaldo de PCBs | [JLCPCB](https://jlcpcb.com/) | [Pagina web](https://jlcpcb.com/) | Buenos precios y servicio adecuado con promociones constantes. Tambien hacen ensamblado y se conecta con LCSC |
-| Impresion de PCB | Manufactura y ensambaldo de PCBs | [Elecrow](https://www.elecrow.com/pcb-manufacturing.html) | roy@elecrow.com o pagina web | Excelente servicio, mas partes que JLCPCB, mejor calidad y mayores opciones de acabados. Tambien ensamblan. |
+| JLCPCB | Manufactura y ensambaldo de PCBs | [JLCPCB](https://jlcpcb.com/) | [Pagina web](https://jlcpcb.com/) | Buenos precios y servicio adecuado con promociones constantes. Tambien hacen ensamblado y se conecta con LCSC |
+| Elecrow | Manufactura y ensambaldo de PCBs | [Elecrow](https://www.elecrow.com/pcb-manufacturing.html) | roy@elecrow.com o pagina web | Excelente servicio, mas partes que JLCPCB, mejor calidad y mayores opciones de acabados. Tambien ensamblan. |
   
 </div>
 
