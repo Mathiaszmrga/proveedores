@@ -18,8 +18,8 @@
 - [Metal](#Metal)
 - [Madera](#Madera)
 - [Ceramica](#Ceramica)
-- [Impresion 3D](#Impresion 3D)
-- [Maquinado CNC](#Maquinado CNC)
+- [Impresion 3D](#Impresion_3D)
+- [Maquinado CNC](#Maquinado_CNC)
 - [Empaque](#Empaque)
 - [Estampas](#Estampas)
 
