@@ -2,8 +2,6 @@
 <p align="center" >Proveedores de articulos y servicios electronicos.</p>
 <p align="center" >(Arduino, PCB, resistencias, etc.)</p>
 
-<h1 align="center" style="margin-top: 0px;"></h1>
-
 <div align="center" >
   
 ## Productos
