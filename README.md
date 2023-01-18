@@ -14,13 +14,15 @@
 
 ## Tabla de contenidos
 
-- [Electronica](https://github.com/Mathiaszmrga/proveedores/tree/main/Electronica)
-- [Metal](https://github.com/Mathiaszmrga/proveedores/tree/main/Metal)
-- [Madera](https://github.com/Mathiaszmrga/proveedores/tree/main/Madera)
+- [Acrilico](https://github.com/Mathiaszmrga/proveedores/tree/main/Acrilico)
 - [Ceramica](https://github.com/Mathiaszmrga/proveedores/tree/main/Ceramica)
-- [Impresion 3D](https://github.com/Mathiaszmrga/proveedores/tree/main/Impresion_3D)
-- [Maquinado CNC](https://github.com/Mathiaszmrga/proveedores/tree/main/Maquinado_CNC)
-- [Resinas](https://github.com/Mathiaszmrga/proveedores/tree/main/Resinas)
+- [Corte laser](https://github.com/Mathiaszmrga/proveedores/tree/main/Corte_laser)
+- [Electronica](https://github.com/Mathiaszmrga/proveedores/tree/main/Electronica)
 - [Empaque](https://github.com/Mathiaszmrga/proveedores/tree/main/Empaque)
 - [Estampas](https://github.com/Mathiaszmrga/proveedores/tree/main/Estampas)
+- [Impresion 3D](https://github.com/Mathiaszmrga/proveedores/tree/main/Impresion_3D)
+- [Madera](https://github.com/Mathiaszmrga/proveedores/tree/main/Madera)
+- [Maquinado CNC](https://github.com/Mathiaszmrga/proveedores/tree/main/Maquinado_CNC)
+- [Metal](https://github.com/Mathiaszmrga/proveedores/tree/main/Metal)
+- [Resinas](https://github.com/Mathiaszmrga/proveedores/tree/main/Resinas)
 - [Template para commit](https://github.com/Mathiaszmrga/proveedores/tree/main/Template_commit)
