@@ -26,3 +26,12 @@
 - [Metal](https://github.com/Mathiaszmrga/proveedores/tree/main/Metal)
 - [Resinas](https://github.com/Mathiaszmrga/proveedores/tree/main/Resinas)
 - [Template para commit](https://github.com/Mathiaszmrga/proveedores/tree/main/Template_commit)
+
+
+## Instrucciones para commit
+
+ 1. Haz un "fork" de este repositorio.
+ 2. Edita el README.md que corresponde.
+ 3. Abre una solicitud para integrarlo a la repo original.
+
+Puedes usar [Stackedit](https://stackedit.io/app#) para visualizar el contenido mientras lo editas.
