@@ -1,6 +1,6 @@
 <h1 align="center" style="margin-top: 0px;">Proveedores de metal</h1>
 <p align="center" >Proveedores de articulos y servicios con metal.</p>
-<p align="center" >(Soldadura, corte, venta de material, etc)</p>
+<p align="center" >(Soldadura, corte, venta de material, etc.)</p>
 
 <div align="center" >
   
