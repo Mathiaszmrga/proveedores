@@ -14,7 +14,7 @@
 
 ## Tabla de contenidos
 
-- [Electronica](#Electronica)
+- [Electronica](https://github.com/Mathiaszmrga/proveedores/tree/main/Electronica)
 - [Metal](#Metal)
 - [Madera](#Madera)
 - [Ceramica](#Ceramica)
@@ -22,19 +22,3 @@
 - [Maquinado CNC](#Maquinado_CNC)
 - [Empaque](#Empaque)
 - [Estampas](#Estampas)
-
-## Electronica:
-
-## Metal:
-
-## Madera:
-
-## Ceramica:
-
-## Impresion 3D:
-
-## Maquinado CNC:
-
-## Empaque:
-
-## Estampas:
