@@ -1,40 +1,25 @@
-<h1 align="center" style="margin-top: 0px;">Directorio de proveedores</h1>
-<p align="center" >Directorio de proveedores de servicios y productos.</p>
-<p align="center" >Abierto para contribucion!!</p>
-<p align="center" >Para remover, agregar o modificar sigue las instrucciones.</p>
+<h1 align="center" style="margin-top: 0px;">Proveedores de metal</h1>
+<p align="center" >Proveedores de articulos y servicios con metal.</p>
+<p align="center" >(Soldadura, corte, venta de material, etc)</p>
 
 <div align="center" >
   
-  ![GitHub Repo stars](https://img.shields.io/github/stars/Mathiaszmrga/proveedores?style=plastic)
-  ![GitHub forks](https://img.shields.io/github/forks/Mathiaszmrga/proveedores?style=plastic)
-  ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Mathiaszmrga/proveedores?style=plastic)
-  ![GitHub last commit](https://img.shields.io/github/last-commit/Mathiaszmrga/proveedores?style=plastic)
+## Productos
+  
+| Nombre | Producto | Link | Contacto | Notas |
+| --------------- | --------------- | --------------- | --------------- | --------------- |
+| --------------- | --------------- | --------------- | --------------- | --------------- |
+| --------------- | --------------- | --------------- | --------------- | --------------- |
+| --------------- | --------------- | --------------- | --------------- | --------------- |
+  
+## Servicios
+  
+| Nombre | Producto | Link | Contacto | Notas |
+| --------------- | --------------- | --------------- | --------------- | --------------- |
+| Impresion de PCB | Manufactura y ensambaldo de PCBs | [JLCPCB](https://jlcpcb.com/) | [Pagina web](https://jlcpcb.com/) | Buenos precios y servicio adecuado con promociones constantes. Tambien hacen ensamblado y se conecta con LCSC |
+| Impresion de PCB | Manufactura y ensambaldo de PCBs | [Elecrow](https://www.elecrow.com/pcb-manufacturing.html) | roy@elecrow.com o pagina web | Excelente servicio, mas partes que JLCPCB, mejor calidad y mayores opciones de acabados. Tambien ensamblan. |
   
 </div>
 
-## Tabla de contenidos
+<h1 align="center" style="margin-top: 0px;"></h1>
 
-- [Electronica](#Electronica)
-- [Metal](#Metal)
-- [Madera](#Madera)
-- [Ceramica](#Ceramica)
-- [Impresion 3D](#Impresion_3D)
-- [Maquinado CNC](#Maquinado_CNC)
-- [Empaque](#Empaque)
-- [Estampas](#Estampas)
-
-## Electronica:
-
-## Metal:
-
-## Madera:
-
-## Ceramica:
-
-## Impresion 3D:
-
-## Maquinado CNC:
-
-## Empaque:
-
-## Estampas:
