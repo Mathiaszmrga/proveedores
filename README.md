@@ -5,9 +5,8 @@
 
 <div align="center" >
   
-  ![GitHub Repo stars](https://img.shields.io/github/stars/keyquesttech/encalave?style=plastic)
-  ![GitHub forks](https://img.shields.io/github/forks/keyquesttech/Encalave?style=plastic)
-  ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/w/keyquesttech/encalave?style=plastic)
-  ![GitHub release (latest by date)](https://img.shields.io/github/downloads/keyquesttech/encalave/latest/total)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/Mathiaszmrga/proveedores?style=plastic)
+  ![GitHub forks](https://img.shields.io/github/forks/Mathiaszmrga/proveedores?style=plastic)
+  ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Mathiaszmrga/proveedores?style=plastic)
   
 </div>
