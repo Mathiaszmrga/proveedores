@@ -11,3 +11,30 @@
   ![GitHub last commit](https://img.shields.io/github/last-commit/Mathiaszmrga/proveedores?style=plastic)
   
 </div>
+
+## Tabla de contenidos
+
+- [Electronica](#Electronica)
+- [Metal](#Metal)
+- [Madera](#Madera)
+- [Ceramica](#Ceramica)
+- [Impresion 3D](#Impresion 3D)
+- [Maquinado CNC](#Maquinado CNC)
+- [Empaque](#Empaque)
+- [Estampas](#Estampas)
+
+## Electronica:
+
+## Metal:
+
+## Madera:
+
+## Ceramica:
+
+## Impresion 3D:
+
+## Maquinado CNC:
+
+## Empaque:
+
+## Estampas:
