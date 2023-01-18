@@ -15,10 +15,10 @@
 ## Tabla de contenidos
 
 - [Electronica](https://github.com/Mathiaszmrga/proveedores/tree/main/Electronica)
-- [Metal](#Metal)
-- [Madera](#Madera)
-- [Ceramica](#Ceramica)
-- [Impresion 3D](#Impresion_3D)
-- [Maquinado CNC](#Maquinado_CNC)
-- [Empaque](#Empaque)
-- [Estampas](#Estampas)
+- [Metal](https://github.com/Mathiaszmrga/proveedores/tree/main/Metal)
+- [Madera](https://github.com/Mathiaszmrga/proveedores/tree/main/Madera)
+- [Ceramica](https://github.com/Mathiaszmrga/proveedores/tree/main/Ceramica)
+- [Impresion 3D](https://github.com/Mathiaszmrga/proveedores/tree/main/Impresion_3D)
+- [Maquinado CNC](https://github.com/Mathiaszmrga/proveedores/tree/main/Maquinado_CNC)
+- [Empaque](https://github.com/Mathiaszmrga/proveedores/tree/main/Empaque)
+- [Estampas](https://github.com/Mathiaszmrga/proveedores/tree/main/Estampas)
