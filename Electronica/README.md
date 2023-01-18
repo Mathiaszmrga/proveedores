@@ -8,7 +8,7 @@
   
 | Nombre | Producto | Link | Contacto | Notas |
 | --------------- | --------------- | --------------- | --------------- | --------------- |
-| unit electronics | Articulos para electronica | [uelectronics](https://uelectronics.com/) | Telefono y WhatsApp: 55 1568 4524 | Buenos precios |
+| unit electronics | Articulos para electronica | [uelectronics](https://uelectronics.com/) | Telefono y WhatsApp: 55 1568 4524 o pagina web | Buenos precios |
 | LCSC | Articulos para electronica a mayoreo y baja escala |[LCSC](https://www.lcsc.com/) | [Pagina web](https://www.lcsc.com/) | Muchos productos pero alto costo de envio e impuestos |
 | Adafruit | Articulos para electronica | [Adafruit](https://www.adafruit.com/) | [Pagina web](https://www.adafruit.com/) | Excelentes placas de desarollo |
   
