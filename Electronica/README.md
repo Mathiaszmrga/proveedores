@@ -6,6 +6,16 @@
 
 <div align="center" >
   
+## Productos
+  
+| Nombre | Producto | Link | Contacto | Notas |
+| --------------- | --------------- | --------------- | --------------- | --------------- |
+| unit electronics | Articulos para electronica | [uelectronics](https://uelectronics.com/) | Telefono y WhatsApp: 55 1568 4524 | Buenos precios |
+| LCSC | Articulos para electronica a mayoreo y baja escala |[LCSC](https://www.lcsc.com/) | [Pagina web](https://www.lcsc.com/) | Muchos productos pero alto costo de envio e impuestos |
+| Row 1 Column 1 | Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 | Row 1 Column 3 |
+  
+## Servicios
+  
 | Nombre | Producto | Link | Contacto | Notas |
 | --------------- | --------------- | --------------- | --------------- | --------------- |
 | unit electronics | Articulos para electronica | [uelectronics](https://uelectronics.com/) | Telefono y WhatsApp: 55 1568 4524 | Buenos precios |
