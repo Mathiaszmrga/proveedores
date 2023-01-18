@@ -8,5 +8,6 @@
   ![GitHub Repo stars](https://img.shields.io/github/stars/Mathiaszmrga/proveedores?style=plastic)
   ![GitHub forks](https://img.shields.io/github/forks/Mathiaszmrga/proveedores?style=plastic)
   ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Mathiaszmrga/proveedores?style=plastic)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/Mathiaszmrga/proveedores?style=plastic)
   
 </div>
