@@ -2,7 +2,7 @@
 <p align="center" >Proveedores de articulos y servicios electronicos.</p>
 <p align="center" >(Arduino, PCB, resistencias, etc.)</p>
 
-<h1 align="center" style="margin-top: 10px;"></h1>
+<h1 align="center" style="margin-top: 0px;"></h1>
 
 <div align="center" >
   
@@ -13,3 +13,5 @@
 | Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
   
 </div>
+
+<h1 align="center" style="margin-top: 0px;"></h1>
