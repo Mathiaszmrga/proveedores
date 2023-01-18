@@ -20,6 +20,7 @@
 - [Ceramica](https://github.com/Mathiaszmrga/proveedores/tree/main/Ceramica)
 - [Impresion 3D](https://github.com/Mathiaszmrga/proveedores/tree/main/Impresion_3D)
 - [Maquinado CNC](https://github.com/Mathiaszmrga/proveedores/tree/main/Maquinado_CNC)
+- [Resinas](https://github.com/Mathiaszmrga/proveedores/tree/main/Resinas)
 - [Empaque](https://github.com/Mathiaszmrga/proveedores/tree/main/Empaque)
 - [Estampas](https://github.com/Mathiaszmrga/proveedores/tree/main/Estampas)
 - [Template para commit](https://github.com/Mathiaszmrga/proveedores/tree/main/Template_commit)
