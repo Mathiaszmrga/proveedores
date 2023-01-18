@@ -6,11 +6,11 @@
 
 <div align="center" >
   
-| Nombre | Producto | Link | Contacto | Pais/ubicacion | Notas |
+| Nombre | Producto | Link | Contacto | Notas |
 | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- |
-| unit electronics | Articulos para electronica | [uelectronics](https://uelectronics.com/) | Telefono y WhatsApp: 55 1568 4524 | Mexico | Buenos precios |
-| Row 1 Column 1 | Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 | Row 1 Column 3 | Row 1 Column 3 |
-| Row 1 Column 1 | Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 | Row 1 Column 3 | Row 1 Column 3 |
+| unit electronics | Articulos para electronica | [uelectronics](https://uelectronics.com/) | Telefono y WhatsApp: 55 1568 4524 | Buenos precios |
+| Row 1 Column 1 | Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 | Row 1 Column 3 |
+| Row 1 Column 1 | Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 | Row 1 Column 3 |
   
 </div>
 
