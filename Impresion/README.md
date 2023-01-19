@@ -1,6 +1,6 @@
-<h1 align="center" style="margin-top: 0px;">Proveedores de estampas</h1>
-<p align="center" >Proveedores de articulos y servicios para estampas personalizadas.</p>
-<p align="center" >(Estampas/stickers, vinil, etc.)</p>
+<h1 align="center" style="margin-top: 0px;">Proveedores de impresion</h1>
+<p align="center" >Proveedores de articulos y servicios de impresion.</p>
+<p align="center" >(Estampas/stickers, vinil, papel, gran formato, etc.)</p>
 
 <div align="center" >
   
