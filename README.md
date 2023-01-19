@@ -19,12 +19,16 @@
 - [Corte laser](https://github.com/Mathiaszmrga/proveedores/tree/main/Corte_laser)
 - [Electronica](https://github.com/Mathiaszmrga/proveedores/tree/main/Electronica)
 - [Empaque](https://github.com/Mathiaszmrga/proveedores/tree/main/Empaque)
-- [Estampas](https://github.com/Mathiaszmrga/proveedores/tree/main/Estampas)
+- [Impresion](https://github.com/Mathiaszmrga/proveedores/tree/main/Impresion)
 - [Impresion 3D](https://github.com/Mathiaszmrga/proveedores/tree/main/Impresion_3D)
+- [Jolleria](https://github.com/Mathiaszmrga/proveedores/tree/main/Jolleria)
 - [Madera](https://github.com/Mathiaszmrga/proveedores/tree/main/Madera)
 - [Maquinado CNC](https://github.com/Mathiaszmrga/proveedores/tree/main/Maquinado_CNC)
 - [Metal](https://github.com/Mathiaszmrga/proveedores/tree/main/Metal)
+- [Otros](https://github.com/Mathiaszmrga/proveedores/tree/main/Otros)
 - [Resinas](https://github.com/Mathiaszmrga/proveedores/tree/main/Resinas)
+- [Textil o piel](https://github.com/Mathiaszmrga/proveedores/tree/main/Textil_piel)
+
 - [Template para commit](https://github.com/Mathiaszmrga/proveedores/tree/main/Template_commit)
 
 
