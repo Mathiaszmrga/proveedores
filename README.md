@@ -28,8 +28,7 @@
 - [Otros](https://github.com/Mathiaszmrga/proveedores/tree/main/Otros)
 - [Resinas](https://github.com/Mathiaszmrga/proveedores/tree/main/Resinas)
 - [Textil o piel](https://github.com/Mathiaszmrga/proveedores/tree/main/Textil_piel)
-
-- [Template para commit](https://github.com/Mathiaszmrga/proveedores/tree/main/Template_commit)
+ - [Template para commit](https://github.com/Mathiaszmrga/proveedores/tree/main/Template_commit)
 
 
 ## Instrucciones para commit
