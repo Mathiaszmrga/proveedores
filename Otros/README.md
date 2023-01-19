@@ -10,7 +10,7 @@
 | --------------- | --------------- | --------------- | --------------- | --------------- |
 | Modularhose | Lock-line | [Modular hose](https://www.modularhose.com/) | [Pagina web](https://www.modularhose.com/) | Lock line para industria y hobby |
 | Remington industries | Cables | [Remington industries](https://www.remingtonindustries.com/) | [Pagina web](https://www.remingtonindustries.com/) | Buenos kits de cables. Tambien estan en Amazon. |
-| Grupo HAO | Tlapaleria, ferreteria, etc. | [Grupo HAO](https://www.grupo-hao.com.mx/) | [Grupo HAO](https://www.grupo-hao.com.mx/) o 56620036, 47531230 o 56816641, 56813132 | Lock line para industria y hobby |
+| Grupo HAO | Tlapaleria, ferreteria, etc. | [Grupo HAO](https://www.grupo-hao.com.mx/) | [Grupo HAO](https://www.grupo-hao.com.mx/) o 56620036, 47531230 o 56816641, 56813132 | N/A |
   
 ## Servicios
   
